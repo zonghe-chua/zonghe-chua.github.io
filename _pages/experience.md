@@ -10,7 +10,7 @@ permalink: /experience/
 Stanford University, Stanford, CA<br>
 _Graduate Research Assistant_, 2017-Present
 
-**Human Dynamics and Control Lab**
+**Human Dynamics and Control Lab**<br>
 University of Illinois at Urbana-Champaign, Champaign, IL<br>
 _Undergraduate Research Assistant_, 2014-2015
 
