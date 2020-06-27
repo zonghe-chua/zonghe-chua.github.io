@@ -10,13 +10,13 @@ permalink: /experience/
 Stanford University, Stanford, CA<br>
 _Graduate Research Assistant_, 2017-Present
 
-**Human Dynamics and Control Lab**\
-University of Illinois at Urbana-Champaign, Champaign, IL\
+**Human Dynamics and Control Lab**
+University of Illinois at Urbana-Champaign, Champaign, IL<br>
 _Undergraduate Research Assistant_, 2014-2015
 
 ## Professional
-**Yaskawa Electric America**\
-Waukegan, IL\
+**Yaskawa Electric America**<br>
+Waukegan, IL<br>
 _Design Engineer_, 2015-2017
 * Led the electromechanical design of new single-phase AC converter product line from concept to production,
 coordinating with electrical engineering, manufacturing, product management, and marketing departments.
