@@ -6,8 +6,8 @@ permalink: /experience/
 
 ## Research 
 
-**Collaborative Haptics and Robotics in Medicine Lab**\
-Stanford University, Stanford, CA\
+**Collaborative Haptics and Robotics in Medicine Lab**<br>
+Stanford University, Stanford, CA<br>
 _Graduate Research Assistant_, 2017-Present
 
 **Human Dynamics and Control Lab**\
