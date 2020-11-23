@@ -14,7 +14,7 @@ _Graduate Research Assistant_, 2017-Present
 University of Illinois at Urbana-Champaign, Champaign, IL<br>
 _Undergraduate Research Assistant_, 2014-2015
 
-## Professional
+## Industry
 **Yaskawa Electric America**<br>
 Waukegan, IL<br>
 _Design Engineer_, 2015-2017
@@ -35,7 +35,7 @@ standards for the US market.
 + **Guest Instructor**, _Digital Making_, Gies School of Business, Univ. of Ill. Urbana-Champaign, 2015
 
 ## Awards and Fellowships
-+ **Stanford Bio-X Fellow**, 2020
++ **Stanford Bio-X Luber Stryer Interdiscplinary Graduate Fellow, 2020
 + **Chancellor’s Public Engagement Fellow**, 2014
 + **Design For America Outstanding Studio Lead**, 2014
 + **YMCA Fred Bailey Scholar**, 2013
